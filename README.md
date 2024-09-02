@@ -1,13 +1,21 @@
-## 👋 Hi there, I'm Ramya.
+# 👋 Hi there, I'm Ramya
 
-I'm a student at [Stanford](https://www.stanford.edu/) majoring in Math and Computer Science.
+ I'm an undergrad at [Stanford University 🌲](https://www.stanford.edu/) majoring in Math and Computer Science!
 
 ## 🔭 About Me
 
-I'm deeply excited about the world of technology and am actively engaged in exploring its applications through industry work and research. My recent experiences have allowed me to delve into the intersection of **technology and finance**, broadening my perspective on innovative solutions.
+I'm passionate about technology and its applications, particularly at the intersection of **technology and finance**. My recent industry work and research have deepened my understanding of innovative solutions in this space.
+
+Some of my interests are:
+
+- 📈 Financial Technology
+- 🧠 Artificial Intelligence / Machine Learning
+- 🚀 Startups & Venture Capital
+- 📐 Mathematics
+- ⚛️ Quantum Computing
 
 ## 📫 Contact me
 
 Feel free to email me at ramyaiyer@stanford.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/ramya-i).
 
-Looking forward to building with you!
+## I look forward to building with you!
